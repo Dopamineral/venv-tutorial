@@ -41,5 +41,10 @@ import numpy
 print("hello")
 ```
 
+formatted as shell
+```sh
+import numpy 
+print("hello")
+```
 
 
