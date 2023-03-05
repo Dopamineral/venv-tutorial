@@ -8,7 +8,7 @@
    
 
 
-```python
+```sh
 pip freeze > requirements.txt
 ```
 
@@ -35,7 +35,11 @@ install dependencies
 pip install -r requirements.txt
 ```
 
-
+example script:
+```python
+import numpy 
+print("hello")
+```
 
 
 
